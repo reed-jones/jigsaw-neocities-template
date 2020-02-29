@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tightenco/jigsaw": "^1.3",
+        "reed-jones/neocities": "^0.2.1"
+    }
+}
